@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\bin\Debug\Diagram.dll.config
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\bin\Debug\Diagram.dll
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\bin\Debug\Diagram.pdb
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\obj\Debug\Diagram.dll
+C:\Users\Usuario\Downloads\ModuloSecurity\ModuloSecurity\Diagram\obj\Debug\Diagram.pdb

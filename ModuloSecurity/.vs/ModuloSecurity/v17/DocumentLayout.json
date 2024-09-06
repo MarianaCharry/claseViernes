@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\implements\\statedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\implements\\statedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\migrations\\20240906151019_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20240906151019_location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\implements\\statebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\implements\\statebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\implements\\countrybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\implements\\countrybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\implements\\citybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\implements\\citybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\interfaces\\istatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\interfaces\\istatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\interfaces\\icitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\interfaces\\icitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\interfaces\\icountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\interfaces\\icountrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\implements\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\interface\\icitybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\interface\\icitybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\interface\\icountrybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\interface\\icountrybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\interfaces\\icitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\interfaces\\icitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\interface\\istatebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\interface\\istatebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\implements\\citydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\interfaces\\istatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\interfaces\\istatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\model\\security\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\model\\security\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\implements\\countrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\interfaces\\icountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\interfaces\\icountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D067D664-B8BB-46A4-872B-9F9FF7AF0D0D}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63FC9B11-77BA-4717-9D4B-A968F78C3084}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\model\\security\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F11F649-1A69-4CC0-80D6-1C46A2A8B60A}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|c:\\users\\momy\\documents\\modulesecurity\\modulosecurity\\web\\controllers\\implements\\roleviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E0CF09-B7D4-4B7C-8576-8C46A8BAAC20}|Web\\Web.csproj|solutionrelative:web\\controllers\\implements\\roleviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cityController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\cityController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\cityController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\cityController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\cityController.cs",
+              "ViewState": "AQIAADIAAACA//////8uwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:27:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAABUAAAAABAAAAAD0vx0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:32:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cityBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\cityBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\cityBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\cityBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\cityBusiness.cs",
+              "ViewState": "AQIAADgAAAAAbGZmZqYkwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:05:04.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "countryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\countryBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\countryBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\countryBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\countryBusiness.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:31:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stateBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\stateBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implements\\stateBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Implements\\stateBusiness.cs",
+              "RelativeToolTip": "Business\\Implements\\stateBusiness.cs",
+              "ViewState": "AQIAAEYAAADAMjMzM/MqwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:44:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stateData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\stateData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\stateData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\stateData.cs",
+              "RelativeToolTip": "Data\\Implements\\stateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:44:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240906151019_Location.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Migrations\\20240906151019_Location.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240906151019_Location.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Migrations\\20240906151019_Location.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240906151019_Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:10:20.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Entity\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAGUAAAAAMzMzM3MkwHAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:14:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStateController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\IStateController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interfaces\\IStateController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\IStateController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interfaces\\IStateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:03:46.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICityController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\ICityController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interfaces\\ICityController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\ICityController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interfaces\\ICityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:02:52.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "countryController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\countryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\countryController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\countryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\countryController.cs",
+              "ViewState": "AQIAAC0AAABAAAAAAAAdwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:26:58.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICityBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\ICityBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interface\\ICityBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\ICityBusiness.cs",
+              "RelativeToolTip": "Business\\Interface\\ICityBusiness.cs",
+              "ViewState": "AQIAAAEAAAD0/////78uwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:51:48.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICountryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\ICountryBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interface\\ICountryBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\ICountryBusiness.cs",
+              "RelativeToolTip": "Business\\Interface\\ICountryBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:42:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stateController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\stateController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\stateController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\stateController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\stateController.cs",
+              "ViewState": "AQIAAAQAAACAAAAAAAAdwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:27:17.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICountryController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\ICountryController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interfaces\\ICountryController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Interfaces\\ICountryController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interfaces\\ICountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:25:52.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICityData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\ICityData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\ICityData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\ICityData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\ICityData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:32:55.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStateBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\IStateBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interface\\IStateBusiness.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Interface\\IStateBusiness.cs",
+              "RelativeToolTip": "Business\\Interface\\IStateBusiness.cs",
+              "ViewState": "AQIAAAIAAABwZmZmZmYIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:38:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cityData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\cityData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\cityData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\cityData.cs",
+              "RelativeToolTip": "Data\\Implements\\cityData.cs",
+              "ViewState": "AQIAADoAAABwmJmZmdkzwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:39:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStateData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\IStateData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IStateData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\IStateData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IStateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:46:58.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "cityDto.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\cityDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\cityDto.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\cityDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\cityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:13:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "city.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\city.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\city.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\city.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\city.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwvQsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:09:03.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "stateDto.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\stateDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\stateDto.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\stateDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\stateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:13:11.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "state.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\state.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\state.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\state.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\state.cs",
+              "ViewState": "AQIAAAAAAAARMzMzM7MiwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:06:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "countryData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\countryData.cs",
+              "RelativeDocumentMoniker": "Data\\Implements\\countryData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Implements\\countryData.cs",
+              "RelativeToolTip": "Data\\Implements\\countryData.cs",
+              "ViewState": "AQIAAB0AAABgmpmZmdkowCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:44:18.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICountryData.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\ICountryData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\ICountryData.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Interfaces\\ICountryData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\ICountryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:49:04.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T03:23:53.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "countryDto.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\countryDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\countryDto.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\DTO\\countryDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\countryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:10:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\UserController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:24:40.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T03:23:49.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T03:23:58.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "country.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\country.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\country.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\country.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:00:31.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\User.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Entity\\Model\\Security\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\User.cs",
+              "ViewState": "AQIAAAIAAACImZmZmRkWwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T02:58:43.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoleViewController.cs",
+              "DocumentMoniker": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\RoleViewController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implements\\RoleViewController.cs",
+              "ToolTip": "C:\\Users\\MOMY\\Documents\\moduleSecurity\\ModuloSecurity\\Web\\Controllers\\Implements\\RoleViewController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implements\\RoleViewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T19:13:19.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
